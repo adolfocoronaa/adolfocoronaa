@@ -28,7 +28,7 @@
 
 - 📫 Feel free to reach me out **adolfocoronaaa@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/757325270171779161) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [coronaill](https://discordapp.com/users/757325270171779161) my username!
 <!--Intro end-->
 
 
@@ -57,7 +57,7 @@
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=adolfocoronaa&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
