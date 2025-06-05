@@ -24,7 +24,7 @@
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 💬 Ask me about **AWS, react, .NET Framework, nodejs, MySQL**
+- 💬 Ask me about **AWS, Angular, .NET Framework, nodejs, MySQL**
 
 - 📫 Feel free to reach me out **adolfocoronaaa@gmail.com**
 
